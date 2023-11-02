@@ -1,0 +1,6 @@
+features :
+    add task
+    list task
+    mark as complete
+    delete task
+
